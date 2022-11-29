@@ -1,12 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @font-face {
-  font-family: "Lato";
-  src: url("../../public/fonts/LatoLatin-Regular.woff2");
+  font-family: 'Lato';
+  src: url('../../public/fonts/LatoLatin-Regular.woff2');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: "Lato";
-  src: url("../../public/fonts/LatoLatin-Semibold.woff2");
+  font-family: 'Lato';
+  src: url('../../public/fonts/LatoLatin-Semibold.woff2');
   font-weight: 600;
   font-style: normal;
 }
